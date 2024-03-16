@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "express-ejs-layouts": "^2.5.1",
+    "express-validator": "^7.0.1",
+    "mongodb": "6.4",
+    "mongoose": "^8.2.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "nodin": "cls && node index",
+    "nodim": "cls && node main.js",
+    "nodemim": "cls && nodemon main.js"
+  }
+}
